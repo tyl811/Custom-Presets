@@ -1,1 +1,5 @@
-<[File:Seaweed.jpg]> This folder has new presets
+#Create your own Milkdrop Presets and Test them out!
+
+Try it out today!
+
+Download Now!
